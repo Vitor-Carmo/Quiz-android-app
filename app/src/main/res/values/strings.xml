@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="play">Jogar</string>
+    <string name="confirm">Confirmar</string>
+    <string name="scores">Pontuação</string>
+
+
+</resources>
