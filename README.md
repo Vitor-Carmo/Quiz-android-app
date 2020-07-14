@@ -13,7 +13,7 @@ App quiz feito para matéria de programação Web Feito com android studio
 
 # Questões do Quiz
 
-As questões foi adicionadas pela classe `Question`
+As questões foram adicionadas pela classe `Question`
 
 Classe `Question`
 
